@@ -1,3 +1,3 @@
 # Datist
 
-Datist is bringing technological innovation and consultancy services to the open data field. We are working on the [Mycarro](https://mycarro.app/) car search engine as well as many other open-source projects listed below.
+Datist is bringing technological innovation and consultancy services to the open data field. We are working on many open-source projects listed below as well as providing [consultancy services](https://tally.so/r/QKKJ57).
